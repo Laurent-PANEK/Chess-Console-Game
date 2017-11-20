@@ -1,0 +1,10 @@
+C:\Users\Laurent\source\repos\ProjetEchec\ProjetEchec\bin\Debug\netcoreapp1.1\ProjetEchec.deps.json
+C:\Users\Laurent\source\repos\ProjetEchec\ProjetEchec\bin\Debug\netcoreapp1.1\ProjetEchec.runtimeconfig.json
+C:\Users\Laurent\source\repos\ProjetEchec\ProjetEchec\bin\Debug\netcoreapp1.1\ProjetEchec.runtimeconfig.dev.json
+C:\Users\Laurent\source\repos\ProjetEchec\ProjetEchec\obj\Debug\netcoreapp1.1\ProjetEchec.csprojResolveAssemblyReference.cache
+C:\Users\Laurent\source\repos\ProjetEchec\ProjetEchec\obj\Debug\netcoreapp1.1\ProjetEchec.csproj.CoreCompileInputs.cache
+C:\Users\Laurent\source\repos\ProjetEchec\ProjetEchec\obj\Debug\netcoreapp1.1\ProjetEchec.AssemblyInfo.cs
+C:\Users\Laurent\source\repos\ProjetEchec\ProjetEchec\bin\Debug\netcoreapp1.1\ProjetEchec.dll
+C:\Users\Laurent\source\repos\ProjetEchec\ProjetEchec\bin\Debug\netcoreapp1.1\ProjetEchec.pdb
+C:\Users\Laurent\source\repos\ProjetEchec\ProjetEchec\obj\Debug\netcoreapp1.1\ProjetEchec.dll
+C:\Users\Laurent\source\repos\ProjetEchec\ProjetEchec\obj\Debug\netcoreapp1.1\ProjetEchec.pdb
