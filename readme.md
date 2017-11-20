@@ -2,4 +2,4 @@
 
 Jeu d'échec en console réalisé en C#
 
-Seule les règles basiques sont implentées.
+Seule les règles basiques sont implémentées.
